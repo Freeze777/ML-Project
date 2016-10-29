@@ -1,0 +1,4 @@
+*there are rows in train-queries.csv where the categoryId is 0 for query-less sessions but there is no category with id=0
+
+*there are query-less sessions wherein the categoryId is valid and the whole items in that categories is displayed
+
